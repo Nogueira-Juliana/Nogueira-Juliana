@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Nogueira-Juliana
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web dev
+Oi! Sou Juliana Nogueira!
 
 
 <!---
