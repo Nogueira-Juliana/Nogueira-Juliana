@@ -7,7 +7,7 @@ Meu nome é Juliana Nogueira, mas pode me chamar de Ju!
   
 - Tutota de: :cat: + :dog: + :four_leaf_clover:;
 
-
+Pode me encontrar em:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliana-nogueira-de-paula/)
 
 ### Skills:
