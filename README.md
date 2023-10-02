@@ -1,12 +1,22 @@
 Hello ^^
-Sou de Recife, moro em Jaboatão, já morei em Olinda e sou casada com uma mulher incrível!
+Meu nome é Juliana Nogueira, mas pode me chamar de Ju!
 
-Graduada em Fisioterapia em 2017, desde 2021 iniciei estudos na área de tecnologia por conta própria buscando retornar a algo que tinha iniciado em 2006, até que finalmente consegui e atualmente estou em transição de carreira para Desenvolvedor de Software FullStack; também tenho proficiência em Inglês e Espanhol e estudo Libras por conta própria.
+- :green_book: Formada em Fisioterapia e em transição desde 2020 para a área Tech :white_check_mark:, atualmente sou aluna da **Cubos Academy**;
+  
+- :video_game: Jogo LeagueOfLegends;
+  
+- Tutota de: :cat: + :dog: + :four_leaf_clover:;
 
-Curiosidades sobre mim: 
-- gosto de jogar LeagueOfLegends + de animes + sempre tive curiosidade pela cultura oriental em geral e religiões + tenho duas dogs, dois cats e plantas.
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliana-nogueira-de-paula/)
 
+### Skills:
+
+![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
+![React](https://img.shields.io/badge/React-282C34?logo=react)
+![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
 <!---
 Nogueira-Juliana/Nogueira-Juliana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
